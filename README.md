@@ -2,12 +2,13 @@
 📍 **Canada**  
 📧 **Email:** [GenericArt@protonmail.com](mailto:GenericArt@protonmail.com)  
 👨‍💻 **GitHub:** [CannedKilroy](https://github.com/CannedKilroy/CannedKilroy)  
+🌐︎ **Website** https://schulztech.pythonanywhere.com/  
 - -----------------------------  
 #### About Me
-I'm a recent data science graduate and data enthusiast currently working on an open-source data pipeline for cryptocurrencies. I am open to work and would love to collaborate on new projects.
+I'm a recent data science graduate and data enthusiast currently working on an open-source data pipeline for cryptocurrencies. I am open to work and would love to collaborate on new projects. Learning GO
 
 #### Programming Launguages:
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><img title="R" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><img title="R" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg"><img title="GO" alt="GO" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
 
 #### Libraries and Frameworks
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"><img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png"><img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"><img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
@@ -28,3 +29,5 @@ I'm a recent data science graduate and data enthusiast currently working on an o
 <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CannedKilroy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CannedKilroy&layout=compact)
